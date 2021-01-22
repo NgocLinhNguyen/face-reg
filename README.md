@@ -17,3 +17,7 @@ pip install -r requirements.txt
 - MobileFaceNet: [link1](https://arxiv.org/abs/1804.07573), [link2](https://github.com/yangxue0827/MobileFaceNet_Tensorflow)
 - UltraLight: [link](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
 - FacialFeatures: [link](https://github.com/ageitgey/face_recognition)
+
+#### How to use this project
+- Add new image to **staffs** folder
+- Run `python test.py` to test from camera
